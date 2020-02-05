@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.0\05. Sum Even Numbers.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.0\05. Sum Even Numbers.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.0\05. Sum Even Numbers.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.0\05. Sum Even Numbers.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.0\05. Sum Even Numbers.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.0\05. Sum Even Numbers.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.0\05. Sum Even Numbers.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.0\05. Sum Even Numbers.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.0\05. Sum Even Numbers.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.0\05. Sum Even Numbers.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.0\05. Sum Even Numbers.pdb

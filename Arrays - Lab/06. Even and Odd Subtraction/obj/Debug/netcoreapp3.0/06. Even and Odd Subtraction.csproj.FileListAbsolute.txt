@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.0\06. Even and Odd Subtraction.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.0\06. Even and Odd Subtraction.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.0\06. Even and Odd Subtraction.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.0\06. Even and Odd Subtraction.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.0\06. Even and Odd Subtraction.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.0\06. Even and Odd Subtraction.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.0\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.0\06. Even and Odd Subtraction.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.0\06. Even and Odd Subtraction.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.0\06. Even and Odd Subtraction.pdb
