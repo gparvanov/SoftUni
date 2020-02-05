@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.pdb
