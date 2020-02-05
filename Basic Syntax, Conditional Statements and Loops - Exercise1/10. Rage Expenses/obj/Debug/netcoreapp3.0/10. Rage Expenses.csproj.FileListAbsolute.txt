@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.0\10. Rage Expenses.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.0\10. Rage Expenses.pdb
