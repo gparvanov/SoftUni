@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.pdb
