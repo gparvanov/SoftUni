@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.0\04. Reverse Array of Strings.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.0\04. Reverse Array of Strings.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.0\04. Reverse Array of Strings.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.0\04. Reverse Array of Strings.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp3.0\04. Reverse Array of Strings.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.0\04. Reverse Array of Strings.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.0\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.0\04. Reverse Array of Strings.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp3.0\04. Reverse Array of Strings.pdb
