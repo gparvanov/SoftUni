@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\bin\Debug\netcoreapp3.0\02. Treasure Hunt.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\bin\Debug\netcoreapp3.0\02. Treasure Hunt.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\bin\Debug\netcoreapp3.0\02. Treasure Hunt.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\bin\Debug\netcoreapp3.0\02. Treasure Hunt.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\bin\Debug\netcoreapp3.0\02. Treasure Hunt.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\bin\Debug\netcoreapp3.0\02. Treasure Hunt.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\obj\Debug\netcoreapp3.0\02. Treasure Hunt.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\obj\Debug\netcoreapp3.0\02. Treasure Hunt.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\obj\Debug\netcoreapp3.0\02. Treasure Hunt.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\obj\Debug\netcoreapp3.0\02. Treasure Hunt.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\02. Treasure Hunt\obj\Debug\netcoreapp3.0\02. Treasure Hunt.pdb

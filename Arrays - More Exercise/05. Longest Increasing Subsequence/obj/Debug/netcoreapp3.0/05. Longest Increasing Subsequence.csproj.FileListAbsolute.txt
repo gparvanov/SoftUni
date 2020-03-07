@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\netcoreapp3.0\05. Longest Increasing Subsequence.pdb

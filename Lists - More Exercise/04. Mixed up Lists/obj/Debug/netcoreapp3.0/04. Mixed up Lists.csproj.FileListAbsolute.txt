@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.0\04. Mixed up Lists.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.0\04. Mixed up Lists.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.0\04. Mixed up Lists.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.0\04. Mixed up Lists.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.0\04. Mixed up Lists.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.0\04. Mixed up Lists.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.0\04. Mixed up Lists.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.0\04. Mixed up Lists.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.0\04. Mixed up Lists.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.0\04. Mixed up Lists.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.0\04. Mixed up Lists.pdb

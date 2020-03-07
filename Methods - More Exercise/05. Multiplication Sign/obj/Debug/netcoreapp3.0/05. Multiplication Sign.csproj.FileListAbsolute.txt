@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.0\05. Multiplication Sign.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.0\05. Multiplication Sign.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.0\05. Multiplication Sign.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.0\05. Multiplication Sign.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.0\05. Multiplication Sign.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.0\05. Multiplication Sign.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.0\05. Multiplication Sign.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.0\05. Multiplication Sign.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.0\05. Multiplication Sign.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.0\05. Multiplication Sign.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.0\05. Multiplication Sign.pdb

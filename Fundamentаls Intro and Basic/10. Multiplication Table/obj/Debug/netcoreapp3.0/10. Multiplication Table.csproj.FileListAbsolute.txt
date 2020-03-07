@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\bin\Debug\netcoreapp3.0\10. Multiplication Table.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\bin\Debug\netcoreapp3.0\10. Multiplication Table.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\bin\Debug\netcoreapp3.0\10. Multiplication Table.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\bin\Debug\netcoreapp3.0\10. Multiplication Table.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\bin\Debug\netcoreapp3.0\10. Multiplication Table.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\bin\Debug\netcoreapp3.0\10. Multiplication Table.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\obj\Debug\netcoreapp3.0\10. Multiplication Table.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\obj\Debug\netcoreapp3.0\10. Multiplication Table.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\obj\Debug\netcoreapp3.0\10. Multiplication Table.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\10. Multiplication Table\obj\Debug\netcoreapp3.0\10. Multiplication Table.pdb

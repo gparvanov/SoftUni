@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.0\10. LadyBugs.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.0\10. LadyBugs.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.0\10. LadyBugs.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.0\10. LadyBugs.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.0\10. LadyBugs.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.0\10. LadyBugs.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.0\10. LadyBugs.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.0\10. LadyBugs.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.0\10. LadyBugs.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.0\10. LadyBugs.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.0\10. LadyBugs.csprojAssemblyReference.cache

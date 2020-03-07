@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp3.0\11. Snowballs.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp3.0\11. Snowballs.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp3.0\11. Snowballs.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp3.0\11. Snowballs.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp3.0\11. Snowballs.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\netcoreapp3.0\11. Snowballs.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\netcoreapp3.0\11. Snowballs.csprojAssemblyReference.cache

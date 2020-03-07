@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\bin\Debug\netcoreapp3.0\07. Theatre Promotion.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\bin\Debug\netcoreapp3.0\07. Theatre Promotion.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\bin\Debug\netcoreapp3.0\07. Theatre Promotion.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\bin\Debug\netcoreapp3.0\07. Theatre Promotion.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\bin\Debug\netcoreapp3.0\07. Theatre Promotion.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\bin\Debug\netcoreapp3.0\07. Theatre Promotion.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\obj\Debug\netcoreapp3.0\07. Theatre Promotion.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\obj\Debug\netcoreapp3.0\07. Theatre Promotion.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\obj\Debug\netcoreapp3.0\07. Theatre Promotion.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\07. Theatre Promotion\obj\Debug\netcoreapp3.0\07. Theatre Promotion.pdb

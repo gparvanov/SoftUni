@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\bin\Debug\netcoreapp3.0\03. Wizard Poker.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\bin\Debug\netcoreapp3.0\03. Wizard Poker.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\bin\Debug\netcoreapp3.0\03. Wizard Poker.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\bin\Debug\netcoreapp3.0\03. Wizard Poker.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\bin\Debug\netcoreapp3.0\03. Wizard Poker.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\bin\Debug\netcoreapp3.0\03. Wizard Poker.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\obj\Debug\netcoreapp3.0\03. Wizard Poker.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\obj\Debug\netcoreapp3.0\03. Wizard Poker.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\obj\Debug\netcoreapp3.0\03. Wizard Poker.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\obj\Debug\netcoreapp3.0\03. Wizard Poker.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\03. Wizard Poker\obj\Debug\netcoreapp3.0\03. Wizard Poker.pdb

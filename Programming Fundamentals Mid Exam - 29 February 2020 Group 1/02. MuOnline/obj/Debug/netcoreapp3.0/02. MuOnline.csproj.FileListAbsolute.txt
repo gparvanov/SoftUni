@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.pdb

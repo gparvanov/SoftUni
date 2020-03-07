@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\bin\Debug\netcoreapp3.0\Froggy Squad.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\bin\Debug\netcoreapp3.0\Froggy Squad.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\bin\Debug\netcoreapp3.0\Froggy Squad.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\bin\Debug\netcoreapp3.0\Froggy Squad.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\bin\Debug\netcoreapp3.0\Froggy Squad.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\bin\Debug\netcoreapp3.0\Froggy Squad.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\obj\Debug\netcoreapp3.0\Froggy Squad.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\obj\Debug\netcoreapp3.0\Froggy Squad.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\obj\Debug\netcoreapp3.0\Froggy Squad.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\obj\Debug\netcoreapp3.0\Froggy Squad.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Froggy Squad\obj\Debug\netcoreapp3.0\Froggy Squad.pdb

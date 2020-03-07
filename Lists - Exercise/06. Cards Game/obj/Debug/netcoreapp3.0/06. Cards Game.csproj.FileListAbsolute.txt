@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.0\06. Cards Game.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.0\06. Cards Game.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.0\06. Cards Game.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.0\06. Cards Game.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.0\06. Cards Game.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\bin\Debug\netcoreapp3.0\06. Cards Game.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.0\06. Cards Game.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.0\06. Cards Game.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.0\06. Cards Game.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.0\06. Cards Game.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\06. Cards Game\obj\Debug\netcoreapp3.0\06. Cards Game.pdb

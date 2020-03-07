@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.0\01. Sum Adjacent Equal Numbers.pdb

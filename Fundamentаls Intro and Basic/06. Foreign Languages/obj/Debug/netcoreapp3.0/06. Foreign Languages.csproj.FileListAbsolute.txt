@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\bin\Debug\netcoreapp3.0\06. Foreign Languages.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\bin\Debug\netcoreapp3.0\06. Foreign Languages.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\bin\Debug\netcoreapp3.0\06. Foreign Languages.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\bin\Debug\netcoreapp3.0\06. Foreign Languages.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\bin\Debug\netcoreapp3.0\06. Foreign Languages.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\bin\Debug\netcoreapp3.0\06. Foreign Languages.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\obj\Debug\netcoreapp3.0\06. Foreign Languages.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\obj\Debug\netcoreapp3.0\06. Foreign Languages.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\obj\Debug\netcoreapp3.0\06. Foreign Languages.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\obj\Debug\netcoreapp3.0\06. Foreign Languages.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\06. Foreign Languages\obj\Debug\netcoreapp3.0\06. Foreign Languages.csprojAssemblyReference.cache

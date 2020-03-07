@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.0\11. Array Manipulator.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.0\11. Array Manipulator.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.0\11. Array Manipulator.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.0\11. Array Manipulator.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.0\11. Array Manipulator.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.0\11. Array Manipulator.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.0\11. Array Manipulator.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.0\11. Array Manipulator.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.0\11. Array Manipulator.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.0\11. Array Manipulator.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.0\11. Array Manipulator.pdb

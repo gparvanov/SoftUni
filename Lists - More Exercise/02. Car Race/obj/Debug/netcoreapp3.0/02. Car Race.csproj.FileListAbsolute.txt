@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.0\02. Car Race.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.0\02. Car Race.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.0\02. Car Race.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.0\02. Car Race.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.0\02. Car Race.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.0\02. Car Race.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.0\02. Car Race.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.0\02. Car Race.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.0\02. Car Race.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.0\02. Car Race.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.0\02. Car Race.pdb

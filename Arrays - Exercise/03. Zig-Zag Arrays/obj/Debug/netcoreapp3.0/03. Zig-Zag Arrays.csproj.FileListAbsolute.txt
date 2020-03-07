@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.0\03. Zig-Zag Arrays.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.0\03. Zig-Zag Arrays.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.0\03. Zig-Zag Arrays.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.0\03. Zig-Zag Arrays.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.0\03. Zig-Zag Arrays.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.0\03. Zig-Zag Arrays.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.0\03. Zig-Zag Arrays.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.0\03. Zig-Zag Arrays.pdb

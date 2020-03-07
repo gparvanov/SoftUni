@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.0\03. Legendary Farming.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.0\03. Legendary Farming.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.0\03. Legendary Farming.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.0\03. Legendary Farming.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.0\03. Legendary Farming.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.0\03. Legendary Farming.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.0\03. Legendary Farming.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.0\03. Legendary Farming.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.0\03. Legendary Farming.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.0\03. Legendary Farming.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.0\03. Legendary Farming.pdb

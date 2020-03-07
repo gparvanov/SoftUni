@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp3.0\Number Array.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp3.0\Number Array.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp3.0\Number Array.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp3.0\Number Array.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp3.0\Number Array.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\bin\Debug\netcoreapp3.0\Number Array.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp3.0\Number Array.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp3.0\Number Array.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp3.0\Number Array.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp3.0\Number Array.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Number Array\obj\Debug\netcoreapp3.0\Number Array.pdb

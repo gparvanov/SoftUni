@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.0\08. Town Info.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.0\08. Town Info.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.0\08. Town Info.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.0\08. Town Info.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.0\08. Town Info.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.0\08. Town Info.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.0\08. Town Info.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.0\08. Town Info.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.0\08. Town Info.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.0\08. Town Info.pdb

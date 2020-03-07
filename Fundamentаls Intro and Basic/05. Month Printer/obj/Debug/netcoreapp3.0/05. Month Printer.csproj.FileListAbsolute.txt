@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\bin\Debug\netcoreapp3.0\05. Month Printer.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\05. Month Printer\obj\Debug\netcoreapp3.0\05. Month Printer.pdb

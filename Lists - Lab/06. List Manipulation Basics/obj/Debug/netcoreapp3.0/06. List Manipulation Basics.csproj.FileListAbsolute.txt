@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.0\06. List Manipulation Basics.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.0\06. List Manipulation Basics.pdb

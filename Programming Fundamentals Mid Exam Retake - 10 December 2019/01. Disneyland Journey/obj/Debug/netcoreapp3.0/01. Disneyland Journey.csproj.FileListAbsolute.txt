@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.pdb

@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\bin\Debug\netcoreapp3.0\02. Randomize Words.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\bin\Debug\netcoreapp3.0\02. Randomize Words.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\bin\Debug\netcoreapp3.0\02. Randomize Words.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\bin\Debug\netcoreapp3.0\02. Randomize Words.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\bin\Debug\netcoreapp3.0\02. Randomize Words.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\bin\Debug\netcoreapp3.0\02. Randomize Words.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\obj\Debug\netcoreapp3.0\02. Randomize Words.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\obj\Debug\netcoreapp3.0\02. Randomize Words.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\obj\Debug\netcoreapp3.0\02. Randomize Words.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\obj\Debug\netcoreapp3.0\02. Randomize Words.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\02. Randomize Words\obj\Debug\netcoreapp3.0\02. Randomize Words.pdb

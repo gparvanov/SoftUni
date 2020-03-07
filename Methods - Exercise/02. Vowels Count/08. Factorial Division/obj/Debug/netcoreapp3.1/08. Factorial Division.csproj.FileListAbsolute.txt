@@ -1,0 +1,10 @@
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb

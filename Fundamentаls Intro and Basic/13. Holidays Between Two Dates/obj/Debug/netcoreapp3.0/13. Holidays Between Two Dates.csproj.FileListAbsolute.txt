@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.0\13. Holidays Between Two Dates.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.0\13. Holidays Between Two Dates.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.0\13. Holidays Between Two Dates.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.0\13. Holidays Between Two Dates.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.0\13. Holidays Between Two Dates.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.0\13. Holidays Between Two Dates.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.0\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.0\13. Holidays Between Two Dates.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.0\13. Holidays Between Two Dates.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.0\13. Holidays Between Two Dates.pdb

@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp3.0\09. Pokemon Don't Go.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp3.0\09. Pokemon Don't Go.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp3.0\09. Pokemon Don't Go.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp3.0\09. Pokemon Don't Go.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp3.0\09. Pokemon Don't Go.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp3.0\09. Pokemon Don't Go.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp3.0\09. Pokemon Don't Go.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp3.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp3.0\09. Pokemon Don't Go.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp3.0\09. Pokemon Don't Go.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp3.0\09. Pokemon Don't Go.pdb

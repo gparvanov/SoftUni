@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.0\02. Common Elements.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.0\02. Common Elements.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.0\02. Common Elements.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.0\02. Common Elements.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.0\02. Common Elements.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.0\02. Common Elements.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.0\02. Common Elements.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.0\02. Common Elements.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.0\02. Common Elements.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.0\02. Common Elements.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.0\02. Common Elements.pdb

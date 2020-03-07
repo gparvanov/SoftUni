@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\bin\Debug\netcoreapp3.0\03. Passed or Failed.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\03. Passed or Failed\obj\Debug\netcoreapp3.0\03. Passed or Failed.pdb

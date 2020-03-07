@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.pdb

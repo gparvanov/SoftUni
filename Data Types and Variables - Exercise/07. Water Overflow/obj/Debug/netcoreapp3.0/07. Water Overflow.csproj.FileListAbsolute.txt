@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.0\07. Water Overflow.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.0\07. Water Overflow.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.0\07. Water Overflow.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.0\07. Water Overflow.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.0\07. Water Overflow.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.0\07. Water Overflow.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.0\07. Water Overflow.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.0\07. Water Overflow.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.0\07. Water Overflow.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.0\07. Water Overflow.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.0\07. Water Overflow.pdb

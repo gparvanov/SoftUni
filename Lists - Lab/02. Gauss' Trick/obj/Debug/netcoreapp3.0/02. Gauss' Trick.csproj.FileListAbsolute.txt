@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.0\02. Gauss' Trick.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.0\02. Gauss' Trick.pdb

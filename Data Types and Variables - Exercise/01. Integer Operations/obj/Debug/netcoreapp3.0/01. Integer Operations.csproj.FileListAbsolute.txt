@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.0\01. Integer Operations.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.0\01. Integer Operations.pdb

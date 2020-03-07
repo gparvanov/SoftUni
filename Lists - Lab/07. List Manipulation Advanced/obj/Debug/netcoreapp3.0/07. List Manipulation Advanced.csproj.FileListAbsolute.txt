@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp3.0\07. List Manipulation Advanced.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp3.0\07. List Manipulation Advanced.pdb

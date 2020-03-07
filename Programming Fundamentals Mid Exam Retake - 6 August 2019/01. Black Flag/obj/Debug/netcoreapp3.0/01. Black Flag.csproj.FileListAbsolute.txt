@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\bin\Debug\netcoreapp3.0\01. Black Flag.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\bin\Debug\netcoreapp3.0\01. Black Flag.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\bin\Debug\netcoreapp3.0\01. Black Flag.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\bin\Debug\netcoreapp3.0\01. Black Flag.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\bin\Debug\netcoreapp3.0\01. Black Flag.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\bin\Debug\netcoreapp3.0\01. Black Flag.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\obj\Debug\netcoreapp3.0\01. Black Flag.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\obj\Debug\netcoreapp3.0\01. Black Flag.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\obj\Debug\netcoreapp3.0\01. Black Flag.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\01. Black Flag\obj\Debug\netcoreapp3.0\01. Black Flag.pdb

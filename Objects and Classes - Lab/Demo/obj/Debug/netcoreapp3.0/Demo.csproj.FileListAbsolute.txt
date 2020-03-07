@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\bin\Debug\netcoreapp3.0\Demo.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\bin\Debug\netcoreapp3.0\Demo.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\bin\Debug\netcoreapp3.0\Demo.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\bin\Debug\netcoreapp3.0\Demo.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\bin\Debug\netcoreapp3.0\Demo.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\bin\Debug\netcoreapp3.0\Demo.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\obj\Debug\netcoreapp3.0\Demo.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\obj\Debug\netcoreapp3.0\Demo.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\obj\Debug\netcoreapp3.0\Demo.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\obj\Debug\netcoreapp3.0\Demo.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Objects and Classes - Lab\Demo\obj\Debug\netcoreapp3.0\Demo.pdb

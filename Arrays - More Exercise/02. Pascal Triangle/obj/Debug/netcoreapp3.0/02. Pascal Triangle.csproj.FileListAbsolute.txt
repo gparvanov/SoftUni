@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.0\02. Pascal Triangle.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.0\02. Pascal Triangle.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.0\02. Pascal Triangle.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.0\02. Pascal Triangle.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.0\02. Pascal Triangle.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.0\02. Pascal Triangle.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.0\02. Pascal Triangle.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.0\02. Pascal Triangle.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.0\02. Pascal Triangle.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.0\02. Pascal Triangle.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.0\02. Pascal Triangle.pdb

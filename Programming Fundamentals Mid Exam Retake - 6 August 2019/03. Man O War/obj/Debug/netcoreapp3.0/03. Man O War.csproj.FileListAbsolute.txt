@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\bin\Debug\netcoreapp3.0\03. Man O War.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\bin\Debug\netcoreapp3.0\03. Man O War.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\bin\Debug\netcoreapp3.0\03. Man O War.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\bin\Debug\netcoreapp3.0\03. Man O War.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\bin\Debug\netcoreapp3.0\03. Man O War.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\bin\Debug\netcoreapp3.0\03. Man O War.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\obj\Debug\netcoreapp3.0\03. Man O War.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\obj\Debug\netcoreapp3.0\03. Man O War.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\obj\Debug\netcoreapp3.0\03. Man O War.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\obj\Debug\netcoreapp3.0\03. Man O War.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 6 August 2019\03. Man O War\obj\Debug\netcoreapp3.0\03. Man O War.pdb

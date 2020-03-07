@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\bin\Debug\netcoreapp3.0\08. Divisible by 3.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\bin\Debug\netcoreapp3.0\08. Divisible by 3.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\bin\Debug\netcoreapp3.0\08. Divisible by 3.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\bin\Debug\netcoreapp3.0\08. Divisible by 3.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\bin\Debug\netcoreapp3.0\08. Divisible by 3.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\bin\Debug\netcoreapp3.0\08. Divisible by 3.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\obj\Debug\netcoreapp3.0\08. Divisible by 3.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\obj\Debug\netcoreapp3.0\08. Divisible by 3.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\obj\Debug\netcoreapp3.0\08. Divisible by 3.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\obj\Debug\netcoreapp3.0\08. Divisible by 3.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Fundamentаls Intro and Basic\08. Divisible by 3\obj\Debug\netcoreapp3.0\08. Divisible by 3.pdb

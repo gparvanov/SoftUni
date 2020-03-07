@@ -1,0 +1,11 @@
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csprojAssemblyReference.cache
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+E:\_C#_Projects\_SoftUni\georgi\_C#_Fundamentals Course\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb

@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.0\04. Sum of Chars.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.0\04. Sum of Chars.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.0\04. Sum of Chars.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.0\04. Sum of Chars.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.0\04. Sum of Chars.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\bin\Debug\netcoreapp3.0\04. Sum of Chars.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.0\04. Sum of Chars.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.0\04. Sum of Chars.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.0\04. Sum of Chars.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.0\04. Sum of Chars.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\04. Sum of Chars\obj\Debug\netcoreapp3.0\04. Sum of Chars.pdb

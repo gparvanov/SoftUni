@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.0\04. Fold and Sum.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.0\04. Fold and Sum.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.0\04. Fold and Sum.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.0\04. Fold and Sum.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.0\04. Fold and Sum.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.0\04. Fold and Sum.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.0\04. Fold and Sum.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.0\04. Fold and Sum.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.0\04. Fold and Sum.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.0\04. Fold and Sum.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.0\04. Fold and Sum.pdb

@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.0\05. Top Integers.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.0\05. Top Integers.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.0\05. Top Integers.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.0\05. Top Integers.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.0\05. Top Integers.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.0\05. Top Integers.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.0\05. Top Integers.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.0\05. Top Integers.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.0\05. Top Integers.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.0\05. Top Integers.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.0\05. Top Integers.pdb

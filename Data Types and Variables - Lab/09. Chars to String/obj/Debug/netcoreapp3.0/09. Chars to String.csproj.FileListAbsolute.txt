@@ -1,0 +1,10 @@
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.exe
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.deps.json
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.runtimeconfig.json
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.runtimeconfig.dev.json
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.dll
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.0\09. Chars to String.pdb
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.AssemblyInfoInputs.cache
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.AssemblyInfo.cs
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.dll
+C:\Users\Dinko\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.0\09. Chars to String.pdb

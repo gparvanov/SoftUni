@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.0\10. Poke Mon.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.0\10. Poke Mon.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.0\10. Poke Mon.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.0\10. Poke Mon.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.0\10. Poke Mon.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.0\10. Poke Mon.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.0\10. Poke Mon.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.0\10. Poke Mon.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.0\10. Poke Mon.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.0\10. Poke Mon.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.0\10. Poke Mon.pdb

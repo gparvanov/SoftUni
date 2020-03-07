@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.0\02. A Miner Task.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.0\02. A Miner Task.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.0\02. A Miner Task.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.0\02. A Miner Task.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.0\02. A Miner Task.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.0\02. A Miner Task.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.0\02. A Miner Task.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.0\02. A Miner Task.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.0\02. A Miner Task.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.0\02. A Miner Task.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.0\02. A Miner Task.pdb

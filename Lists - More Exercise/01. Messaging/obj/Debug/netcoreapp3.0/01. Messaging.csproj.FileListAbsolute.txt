@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.0\01. Messaging.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.0\01. Messaging.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.0\01. Messaging.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.0\01. Messaging.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.0\01. Messaging.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.0\01. Messaging.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.0\01. Messaging.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.0\01. Messaging.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.0\01. Messaging.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.0\01. Messaging.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.0\01. Messaging.pdb

@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.0\10. SoftUni Course Planning.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.0\10. SoftUni Course Planning.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.0\10. SoftUni Course Planning.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.0\10. SoftUni Course Planning.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.0\10. SoftUni Course Planning.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.0\10. SoftUni Course Planning.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.0\10. SoftUni Course Planning.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.0\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.0\10. SoftUni Course Planning.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.0\10. SoftUni Course Planning.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.0\10. SoftUni Course Planning.pdb

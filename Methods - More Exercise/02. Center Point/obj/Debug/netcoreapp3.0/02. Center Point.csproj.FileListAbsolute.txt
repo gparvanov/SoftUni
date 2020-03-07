@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.0\02. Center Point.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.0\02. Center Point.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.0\02. Center Point.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.0\02. Center Point.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.0\02. Center Point.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.0\02. Center Point.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.0\02. Center Point.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.0\02. Center Point.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.0\02. Center Point.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.0\02. Center Point.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.0\02. Center Point.pdb

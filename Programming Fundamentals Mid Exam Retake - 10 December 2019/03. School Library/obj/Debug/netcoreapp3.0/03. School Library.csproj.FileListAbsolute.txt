@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam Retake - 10 December 2019\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.pdb

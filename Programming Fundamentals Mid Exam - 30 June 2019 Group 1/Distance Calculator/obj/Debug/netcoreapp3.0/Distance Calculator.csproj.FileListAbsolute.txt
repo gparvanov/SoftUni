@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\bin\Debug\netcoreapp3.0\Distance Calculator.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\bin\Debug\netcoreapp3.0\Distance Calculator.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\bin\Debug\netcoreapp3.0\Distance Calculator.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\bin\Debug\netcoreapp3.0\Distance Calculator.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\bin\Debug\netcoreapp3.0\Distance Calculator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\bin\Debug\netcoreapp3.0\Distance Calculator.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\obj\Debug\netcoreapp3.0\Distance Calculator.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\obj\Debug\netcoreapp3.0\Distance Calculator.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\obj\Debug\netcoreapp3.0\Distance Calculator.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\obj\Debug\netcoreapp3.0\Distance Calculator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 1\Distance Calculator\obj\Debug\netcoreapp3.0\Distance Calculator.pdb

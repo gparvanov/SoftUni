@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\bin\Debug\netcoreapp3.0\05. Word Filter.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\05. Word Filter\obj\Debug\netcoreapp3.0\05. Word Filter.pdb

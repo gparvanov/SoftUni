@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\bin\Debug\netcoreapp3.0\Giftbox Coverage.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\bin\Debug\netcoreapp3.0\Giftbox Coverage.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\bin\Debug\netcoreapp3.0\Giftbox Coverage.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\bin\Debug\netcoreapp3.0\Giftbox Coverage.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\bin\Debug\netcoreapp3.0\Giftbox Coverage.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\bin\Debug\netcoreapp3.0\Giftbox Coverage.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\obj\Debug\netcoreapp3.0\Giftbox Coverage.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\obj\Debug\netcoreapp3.0\Giftbox Coverage.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\obj\Debug\netcoreapp3.0\Giftbox Coverage.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\obj\Debug\netcoreapp3.0\Giftbox Coverage.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 30 June 2019 Group 2\Giftbox Coverage\obj\Debug\netcoreapp3.0\Giftbox Coverage.pdb

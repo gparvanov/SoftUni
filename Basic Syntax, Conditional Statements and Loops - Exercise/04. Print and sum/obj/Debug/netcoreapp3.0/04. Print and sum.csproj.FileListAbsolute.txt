@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.0\04. Print and sum.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.0\04. Print and sum.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.0\04. Print and sum.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.0\04. Print and sum.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.0\04. Print and sum.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.0\04. Print and sum.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.0\04. Print and sum.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.0\04. Print and sum.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.0\04. Print and sum.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.0\04. Print and sum.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.0\04. Print and sum.pdb

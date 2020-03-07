@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\bin\Debug\netcoreapp3.0\02. Weaponsmith.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\bin\Debug\netcoreapp3.0\02. Weaponsmith.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\bin\Debug\netcoreapp3.0\02. Weaponsmith.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\bin\Debug\netcoreapp3.0\02. Weaponsmith.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\bin\Debug\netcoreapp3.0\02. Weaponsmith.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\bin\Debug\netcoreapp3.0\02. Weaponsmith.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\obj\Debug\netcoreapp3.0\02. Weaponsmith.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\obj\Debug\netcoreapp3.0\02. Weaponsmith.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\obj\Debug\netcoreapp3.0\02. Weaponsmith.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\obj\Debug\netcoreapp3.0\02. Weaponsmith.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\02. Weaponsmith\obj\Debug\netcoreapp3.0\02. Weaponsmith.pdb

@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.0\10. Top Number.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.0\10. Top Number.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.0\10. Top Number.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.0\10. Top Number.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.0\10. Top Number.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\bin\Debug\netcoreapp3.0\10. Top Number.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.0\10. Top Number.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.0\10. Top Number.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.0\10. Top Number.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - Exercise\10. Top Number\obj\Debug\netcoreapp3.0\10. Top Number.pdb

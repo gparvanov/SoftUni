@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\bin\Debug\netcoreapp3.0\03. Merging Lists.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\bin\Debug\netcoreapp3.0\03. Merging Lists.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\bin\Debug\netcoreapp3.0\03. Merging Lists.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\bin\Debug\netcoreapp3.0\03. Merging Lists.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\bin\Debug\netcoreapp3.0\03. Merging Lists.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\bin\Debug\netcoreapp3.0\03. Merging Lists.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\obj\Debug\netcoreapp3.0\03. Merging Lists.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\obj\Debug\netcoreapp3.0\03. Merging Lists.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\obj\Debug\netcoreapp3.0\03. Merging Lists.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\obj\Debug\netcoreapp3.0\03. Merging Lists.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Lists - Lab\03. Merging Lists\obj\Debug\netcoreapp3.0\03. Merging Lists.pdb

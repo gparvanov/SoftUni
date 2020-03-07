@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\bin\Debug\netcoreapp3.0\04. Back In 30 Minutes.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Fundamentаls Intro and Basic\04. Back In 30 Minutes\obj\Debug\netcoreapp3.0\04. Back In 30 Minutes.pdb

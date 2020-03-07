@@ -1,0 +1,10 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.0\07. Max Sequence of Equal Elements.pdb

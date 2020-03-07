@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\bin\Debug\netcoreapp3.0\01. Biscuits Factory.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\bin\Debug\netcoreapp3.0\01. Biscuits Factory.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\bin\Debug\netcoreapp3.0\01. Biscuits Factory.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\bin\Debug\netcoreapp3.0\01. Biscuits Factory.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\bin\Debug\netcoreapp3.0\01. Biscuits Factory.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\bin\Debug\netcoreapp3.0\01. Biscuits Factory.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\obj\Debug\netcoreapp3.0\01. Biscuits Factory.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\obj\Debug\netcoreapp3.0\01. Biscuits Factory.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\obj\Debug\netcoreapp3.0\01. Biscuits Factory.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\obj\Debug\netcoreapp3.0\01. Biscuits Factory.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Mid Exam - 2 November 2019 Group 1\01. Biscuits Factory\obj\Debug\netcoreapp3.0\01. Biscuits Factory.pdb

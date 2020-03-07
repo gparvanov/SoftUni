@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.0\03. Longer Line.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.0\03. Longer Line.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.0\03. Longer Line.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.0\03. Longer Line.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.0\03. Longer Line.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.0\03. Longer Line.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.0\03. Longer Line.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.0\03. Longer Line.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.0\03. Longer Line.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.0\03. Longer Line.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.0\03. Longer Line.pdb

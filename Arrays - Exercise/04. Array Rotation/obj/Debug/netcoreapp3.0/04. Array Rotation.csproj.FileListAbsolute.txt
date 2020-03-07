@@ -1,0 +1,11 @@
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.0\04. Array Rotation.exe
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.0\04. Array Rotation.deps.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.0\04. Array Rotation.runtimeconfig.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.0\04. Array Rotation.runtimeconfig.dev.json
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.0\04. Array Rotation.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.0\04. Array Rotation.pdb
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.0\04. Array Rotation.csprojAssemblyReference.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.0\04. Array Rotation.AssemblyInfoInputs.cache
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.0\04. Array Rotation.AssemblyInfo.cs
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.0\04. Array Rotation.dll
+D:\_Dropbox_newfolder\Dropbox\georgi\_C#_Fundamentals Course\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.0\04. Array Rotation.pdb

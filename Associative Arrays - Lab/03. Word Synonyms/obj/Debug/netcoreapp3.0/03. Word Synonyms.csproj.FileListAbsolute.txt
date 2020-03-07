@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.0\03. Word Synonyms.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.0\03. Word Synonyms.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.0\03. Word Synonyms.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.0\03. Word Synonyms.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.0\03. Word Synonyms.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.0\03. Word Synonyms.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.0\03. Word Synonyms.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.0\03. Word Synonyms.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.0\03. Word Synonyms.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.0\03. Word Synonyms.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.0\03. Word Synonyms.pdb
