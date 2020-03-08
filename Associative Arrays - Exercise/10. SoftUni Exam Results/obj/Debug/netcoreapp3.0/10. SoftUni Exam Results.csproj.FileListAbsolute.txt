@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.0\10. SoftUni Exam Results.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.0\10. SoftUni Exam Results.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.0\10. SoftUni Exam Results.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.0\10. SoftUni Exam Results.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.0\10. SoftUni Exam Results.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\netcoreapp3.0\10. SoftUni Exam Results.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.0\10. SoftUni Exam Results.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.0\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.0\10. SoftUni Exam Results.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.0\10. SoftUni Exam Results.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\netcoreapp3.0\10. SoftUni Exam Results.pdb

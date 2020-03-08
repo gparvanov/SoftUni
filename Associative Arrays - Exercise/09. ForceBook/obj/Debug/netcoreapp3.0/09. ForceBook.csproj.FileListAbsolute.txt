@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.pdb
