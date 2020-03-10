@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj": {}
+    "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj": {}
   },
   "projects": {
-    "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj": {
+    "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
         "projectName": "05. SoftUni Parking",
-        "projectPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\05. SoftUni Parking\\05. SoftUni Parking.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\05. SoftUni Parking\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\05. SoftUni Parking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

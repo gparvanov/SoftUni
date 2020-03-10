@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\07. Student Academy\\07. Student Academy.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\07. Student Academy\\07. Student Academy.csproj",
       "projectName": "07. Student Academy",
-      "projectPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\07. Student Academy\\07. Student Academy.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\07. Student Academy\\07. Student Academy.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\07. Student Academy\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\07. Student Academy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

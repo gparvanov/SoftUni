@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj": {}
+    "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj": {}
   },
   "projects": {
-    "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj": {
+    "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj",
         "projectName": "03. Legendary Farming",
-        "projectPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\03. Legendary Farming\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\03. Legendary Farming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\08. Company Users\\08. Company Users.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\08. Company Users\\08. Company Users.csproj",
       "projectName": "08. Company Users",
-      "projectPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\08. Company Users\\08. Company Users.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\08. Company Users\\08. Company Users.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\08. Company Users\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\08. Company Users\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

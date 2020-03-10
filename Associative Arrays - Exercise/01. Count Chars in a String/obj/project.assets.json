@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
       "projectName": "01. Count Chars in a String",
-      "projectPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\_C#_Projects\\_Fundamentals\\_C#_Fundamentals Course\\Associative Arrays - Exercise\\01. Count Chars in a String\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\Associative Arrays - Exercise\\01. Count Chars in a String\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
