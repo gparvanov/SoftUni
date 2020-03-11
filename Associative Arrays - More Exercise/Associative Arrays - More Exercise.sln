@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Judge", "02. Judge\02. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MOBA Challenger", "03. MOBA Challenger\03. MOBA Challenger.csproj", "{4A4D1293-7E1A-4EC2-9C1E-DEAC284B1ECA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Snowwhite", "04. Snowwhite\04. Snowwhite.csproj", "{82AF6B62-12B5-4119-A672-020E2742C74C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Dragon Army", "05. Dragon Army\05. Dragon Army.csproj", "{44A1FA14-1323-433D-AC49-C62BE0C6BBFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4A4D1293-7E1A-4EC2-9C1E-DEAC284B1ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A4D1293-7E1A-4EC2-9C1E-DEAC284B1ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A4D1293-7E1A-4EC2-9C1E-DEAC284B1ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82AF6B62-12B5-4119-A672-020E2742C74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AF6B62-12B5-4119-A672-020E2742C74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AF6B62-12B5-4119-A672-020E2742C74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AF6B62-12B5-4119-A672-020E2742C74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A1FA14-1323-433D-AC49-C62BE0C6BBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A1FA14-1323-433D-AC49-C62BE0C6BBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A1FA14-1323-433D-AC49-C62BE0C6BBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A1FA14-1323-433D-AC49-C62BE0C6BBFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,3 +9,14 @@ D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exerc
 D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.AssemblyInfo.cs
 D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.dll
 D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.exe
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.deps.json
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.0\09. ForceBook.pdb
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.dll
+C:\Users\PC\Documents\GitHub\SoftUni\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.0\09. ForceBook.pdb

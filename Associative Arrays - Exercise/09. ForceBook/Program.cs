@@ -6,16 +6,15 @@ namespace _09._ForceBook
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var forceSide = new Dictionary<string, List<string>>();
-            string command = "";
-            command = Console.ReadLine();
-            while(command!= "Lumpawaroo")
+            string command = Console.ReadLine();
+            while(command != "Lumpawaroo")
             {
                 if(command.Contains(" | "))
                 {
-                    string[] data = command.Split(" | ").ToArray();
+                    string[] data = command.Split(" | ");
                     string side = data[0];
                     string user = data[1];
                     if (!forceSide.ContainsKey(side))
@@ -25,9 +24,9 @@ namespace _09._ForceBook
                     }
                     else if (!forceSide[side].Contains(user)) forceSide[side].Add(user);                    
                 }
-                else
+                else if(command.Contains(" -> "))
                 {
-                    string[] data = command.Split(" -> ").ToArray();
+                    string[] data = command.Split(" -> ");
                     string user = data[0];
                     string side = data[1];
                     bool found = false;
@@ -72,10 +71,11 @@ namespace _09._ForceBook
                 if (item.Value.Count > 0)
                 {                    
                     Console.WriteLine($"Side: {item.Key}, Members: {item.Value.Count}");
-                    item.Value.Sort();
+                    //item.Value.Sort();
+                    var list = item.Value.OrderBy(x => x).ToList();
                     for (int i = 0; i < item.Value.Count; i++)
                     {
-                        Console.WriteLine($"! {item.Value[i]}");
+                        Console.WriteLine($"! {list[i]}");
                     }
                 }
             }

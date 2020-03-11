@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.0\05. Dragon Army.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.0\05. Dragon Army.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.0\05. Dragon Army.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.0\05. Dragon Army.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.0\05. Dragon Army.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\netcoreapp3.0\05. Dragon Army.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.0\05. Dragon Army.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.0\05. Dragon Army.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.0\05. Dragon Army.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.0\05. Dragon Army.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\netcoreapp3.0\05. Dragon Army.pdb
