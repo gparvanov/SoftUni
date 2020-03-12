@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.0\01. Reverse Strings.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.0\01. Reverse Strings.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.0\01. Reverse Strings.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.0\01. Reverse Strings.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.0\01. Reverse Strings.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.0\01. Reverse Strings.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.0\01. Reverse Strings.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.0\01. Reverse Strings.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.0\01. Reverse Strings.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.0\01. Reverse Strings.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.0\01. Reverse Strings.pdb

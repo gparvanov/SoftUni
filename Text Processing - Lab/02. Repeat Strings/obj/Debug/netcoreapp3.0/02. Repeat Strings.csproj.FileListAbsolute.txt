@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.0\02. Repeat Strings.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.0\02. Repeat Strings.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.0\02. Repeat Strings.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.0\02. Repeat Strings.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.0\02. Repeat Strings.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.0\02. Repeat Strings.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.0\02. Repeat Strings.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.0\02. Repeat Strings.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.0\02. Repeat Strings.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.0\02. Repeat Strings.pdb

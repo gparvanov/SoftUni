@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.0\03. Substring.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.0\03. Substring.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.0\03. Substring.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.0\03. Substring.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.0\03. Substring.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.0\03. Substring.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.0\03. Substring.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.0\03. Substring.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.0\03. Substring.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.0\03. Substring.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.0\03. Substring.pdb
