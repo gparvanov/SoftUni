@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.0\04. Caesar Cipher.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.0\04. Caesar Cipher.pdb

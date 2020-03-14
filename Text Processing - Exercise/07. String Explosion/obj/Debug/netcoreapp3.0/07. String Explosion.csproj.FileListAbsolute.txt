@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.0\07. String Explosion.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.0\07. String Explosion.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.0\07. String Explosion.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.0\07. String Explosion.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.0\07. String Explosion.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.0\07. String Explosion.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.0\07. String Explosion.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.0\07. String Explosion.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.0\07. String Explosion.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.0\07. String Explosion.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.0\07. String Explosion.pdb

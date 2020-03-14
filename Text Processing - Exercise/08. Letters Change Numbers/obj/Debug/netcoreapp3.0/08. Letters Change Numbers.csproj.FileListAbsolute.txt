@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.0\08. Letters Change Numbers.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.0\08. Letters Change Numbers.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.0\08. Letters Change Numbers.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.0\08. Letters Change Numbers.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.0\08. Letters Change Numbers.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.0\08. Letters Change Numbers.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.0\08. Letters Change Numbers.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.0\08. Letters Change Numbers.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.0\08. Letters Change Numbers.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.0\08. Letters Change Numbers.pdb

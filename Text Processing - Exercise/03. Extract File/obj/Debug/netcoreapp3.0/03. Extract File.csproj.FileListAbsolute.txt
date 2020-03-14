@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.0\03. Extract File.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.0\03. Extract File.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.0\03. Extract File.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.0\03. Extract File.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.0\03. Extract File.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.0\03. Extract File.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.0\03. Extract File.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.0\03. Extract File.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.0\03. Extract File.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.0\03. Extract File.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.0\03. Extract File.pdb

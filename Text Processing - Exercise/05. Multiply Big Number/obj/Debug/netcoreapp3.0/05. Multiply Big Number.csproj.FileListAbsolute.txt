@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.0\05. Multiply Big Number.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.0\05. Multiply Big Number.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.0\05. Multiply Big Number.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.0\05. Multiply Big Number.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.0\05. Multiply Big Number.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.0\05. Multiply Big Number.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.0\05. Multiply Big Number.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.0\05. Multiply Big Number.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.0\05. Multiply Big Number.pdb

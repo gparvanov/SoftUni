@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.0\01. Valid Usernames.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.0\01. Valid Usernames.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.0\01. Valid Usernames.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.0\01. Valid Usernames.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.0\01. Valid Usernames.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.0\01. Valid Usernames.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.0\01. Valid Usernames.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.0\01. Valid Usernames.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.0\01. Valid Usernames.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.0\01. Valid Usernames.pdb

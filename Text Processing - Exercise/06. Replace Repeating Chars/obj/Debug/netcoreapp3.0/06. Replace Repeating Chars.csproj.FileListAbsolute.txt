@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.0\06. Replace Repeating Chars.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.0\06. Replace Repeating Chars.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.0\06. Replace Repeating Chars.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.0\06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.0\06. Replace Repeating Chars.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.0\06. Replace Repeating Chars.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.0\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.0\06. Replace Repeating Chars.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.0\06. Replace Repeating Chars.pdb
