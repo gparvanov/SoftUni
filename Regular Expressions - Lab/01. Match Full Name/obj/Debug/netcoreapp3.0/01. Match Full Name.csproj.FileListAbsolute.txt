@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.pdb

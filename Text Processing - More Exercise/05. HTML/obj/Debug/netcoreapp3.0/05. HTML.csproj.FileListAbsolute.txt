@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.0\05. HTML.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.0\05. HTML.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.0\05. HTML.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.0\05. HTML.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.0\05. HTML.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.0\05. HTML.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.0\05. HTML.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.0\05. HTML.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.0\05. HTML.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.0\05. HTML.pdb

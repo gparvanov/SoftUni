@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.0\04. Morse Code Translator.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.0\04. Morse Code Translator.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.0\04. Morse Code Translator.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.0\04. Morse Code Translator.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.0\04. Morse Code Translator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.0\04. Morse Code Translator.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.0\04. Morse Code Translator.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.0\04. Morse Code Translator.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.0\04. Morse Code Translator.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.0\04. Morse Code Translator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.0\04. Morse Code Translator.pdb

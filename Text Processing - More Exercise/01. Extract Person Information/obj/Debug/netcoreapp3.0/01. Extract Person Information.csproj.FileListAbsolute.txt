@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.0\01. Extract Person Information.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.0\01. Extract Person Information.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.0\01. Extract Person Information.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.0\01. Extract Person Information.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.0\01. Extract Person Information.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\netcoreapp3.0\01. Extract Person Information.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.0\01. Extract Person Information.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.0\01. Extract Person Information.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.0\01. Extract Person Information.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.0\01. Extract Person Information.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\netcoreapp3.0\01. Extract Person Information.pdb
