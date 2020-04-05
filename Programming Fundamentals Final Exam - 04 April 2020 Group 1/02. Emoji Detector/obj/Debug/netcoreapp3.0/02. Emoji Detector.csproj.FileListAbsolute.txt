@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.0\02. Emoji Detector.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.0\02. Emoji Detector.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.0\02. Emoji Detector.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.0\02. Emoji Detector.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.0\02. Emoji Detector.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\bin\Debug\netcoreapp3.0\02. Emoji Detector.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.0\02. Emoji Detector.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.0\02. Emoji Detector.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.0\02. Emoji Detector.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.0\02. Emoji Detector.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 04 April 2020 Group 1\02. Emoji Detector\obj\Debug\netcoreapp3.0\02. Emoji Detector.pdb

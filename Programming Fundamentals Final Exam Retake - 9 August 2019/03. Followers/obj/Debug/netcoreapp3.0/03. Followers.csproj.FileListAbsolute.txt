@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\bin\Debug\netcoreapp3.0\03. Followers.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\bin\Debug\netcoreapp3.0\03. Followers.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\bin\Debug\netcoreapp3.0\03. Followers.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\bin\Debug\netcoreapp3.0\03. Followers.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\bin\Debug\netcoreapp3.0\03. Followers.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\bin\Debug\netcoreapp3.0\03. Followers.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\obj\Debug\netcoreapp3.0\03. Followers.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\obj\Debug\netcoreapp3.0\03. Followers.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\obj\Debug\netcoreapp3.0\03. Followers.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\obj\Debug\netcoreapp3.0\03. Followers.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\03. Followers\obj\Debug\netcoreapp3.0\03. Followers.pdb

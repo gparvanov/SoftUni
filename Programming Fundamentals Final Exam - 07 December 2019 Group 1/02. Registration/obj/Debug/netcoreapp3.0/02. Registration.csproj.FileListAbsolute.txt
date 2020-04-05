@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.pdb

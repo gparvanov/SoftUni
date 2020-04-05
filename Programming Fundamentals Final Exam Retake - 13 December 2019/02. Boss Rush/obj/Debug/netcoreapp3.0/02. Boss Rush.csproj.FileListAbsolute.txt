@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.pdb

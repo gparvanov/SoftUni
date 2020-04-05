@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.pdb

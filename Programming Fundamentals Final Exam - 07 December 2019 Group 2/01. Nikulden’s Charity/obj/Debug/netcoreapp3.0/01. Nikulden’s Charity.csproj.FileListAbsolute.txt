@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.pdb

@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.pdb

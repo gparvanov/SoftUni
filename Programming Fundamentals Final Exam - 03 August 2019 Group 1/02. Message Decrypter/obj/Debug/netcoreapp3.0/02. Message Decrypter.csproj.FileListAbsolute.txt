@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\bin\Debug\netcoreapp3.0\02. Message Decrypter.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\bin\Debug\netcoreapp3.0\02. Message Decrypter.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\bin\Debug\netcoreapp3.0\02. Message Decrypter.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\bin\Debug\netcoreapp3.0\02. Message Decrypter.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\bin\Debug\netcoreapp3.0\02. Message Decrypter.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\bin\Debug\netcoreapp3.0\02. Message Decrypter.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\obj\Debug\netcoreapp3.0\02. Message Decrypter.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\obj\Debug\netcoreapp3.0\02. Message Decrypter.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\obj\Debug\netcoreapp3.0\02. Message Decrypter.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\obj\Debug\netcoreapp3.0\02. Message Decrypter.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\02. Message Decrypter\obj\Debug\netcoreapp3.0\02. Message Decrypter.pdb

@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.pdb

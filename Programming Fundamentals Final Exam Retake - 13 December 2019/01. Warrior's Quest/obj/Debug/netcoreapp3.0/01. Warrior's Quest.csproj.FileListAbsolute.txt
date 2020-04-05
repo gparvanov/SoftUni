@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.pdb

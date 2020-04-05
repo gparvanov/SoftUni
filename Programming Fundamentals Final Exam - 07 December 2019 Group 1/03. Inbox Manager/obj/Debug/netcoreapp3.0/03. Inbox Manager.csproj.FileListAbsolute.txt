@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 1\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.pdb

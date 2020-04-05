@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\bin\Debug\netcoreapp3.0\01. Username.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam Retake - 9 August 2019\01. Username\obj\Debug\netcoreapp3.0\01. Username.pdb

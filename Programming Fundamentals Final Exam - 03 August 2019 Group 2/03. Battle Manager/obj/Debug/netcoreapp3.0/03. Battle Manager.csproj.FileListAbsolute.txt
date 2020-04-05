@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\bin\Debug\netcoreapp3.0\03. Battle Manager.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\bin\Debug\netcoreapp3.0\03. Battle Manager.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\bin\Debug\netcoreapp3.0\03. Battle Manager.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\bin\Debug\netcoreapp3.0\03. Battle Manager.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\bin\Debug\netcoreapp3.0\03. Battle Manager.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\bin\Debug\netcoreapp3.0\03. Battle Manager.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\obj\Debug\netcoreapp3.0\03. Battle Manager.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\obj\Debug\netcoreapp3.0\03. Battle Manager.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\obj\Debug\netcoreapp3.0\03. Battle Manager.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\obj\Debug\netcoreapp3.0\03. Battle Manager.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 2\03. Battle Manager\obj\Debug\netcoreapp3.0\03. Battle Manager.pdb

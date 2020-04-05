@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 07 December 2019 Group 2\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.pdb

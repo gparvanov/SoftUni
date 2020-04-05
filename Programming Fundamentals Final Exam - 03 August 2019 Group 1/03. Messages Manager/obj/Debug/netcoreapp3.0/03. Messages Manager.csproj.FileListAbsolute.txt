@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\bin\Debug\netcoreapp3.0\03. Messages Manager.exe
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\bin\Debug\netcoreapp3.0\03. Messages Manager.deps.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\bin\Debug\netcoreapp3.0\03. Messages Manager.runtimeconfig.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\bin\Debug\netcoreapp3.0\03. Messages Manager.runtimeconfig.dev.json
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\bin\Debug\netcoreapp3.0\03. Messages Manager.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\bin\Debug\netcoreapp3.0\03. Messages Manager.pdb
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\obj\Debug\netcoreapp3.0\03. Messages Manager.csprojAssemblyReference.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\obj\Debug\netcoreapp3.0\03. Messages Manager.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\obj\Debug\netcoreapp3.0\03. Messages Manager.AssemblyInfo.cs
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\obj\Debug\netcoreapp3.0\03. Messages Manager.dll
+D:\_C#_Projects\_Fundamentals\_C#_Fundamentals Course\Programming Fundamentals Final Exam - 03 August 2019 Group 1\03. Messages Manager\obj\Debug\netcoreapp3.0\03. Messages Manager.pdb
